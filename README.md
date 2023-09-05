@@ -81,7 +81,7 @@ footer {
       <option value="ICT">ICT</option>
       <option value="Digital Marketing">Digital Marketing</option>
       <option value="Sales">Sales</option> 
-      <option value="Procurement">Procurement</option>
+      <option value="Procurement">Procurement</option>/* added a dropdown arrow to the department*/
   </select><br></td>
   <td></td>
     <tr>
